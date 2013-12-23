@@ -1,0 +1,217 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"gem"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ngozi/rails_projects/demo_app/.gitignore",
+		"/Users/Ngozi/rails_projects/demo_app/Gemfile",
+		"/Users/Ngozi/rails_projects/first_app/Gemfile",
+		"/Users/Ngozi/rails_projects/first_app/.gitignore",
+		"/Users/Ngozi/rails_projects/first_app/README.md",
+		"/Users/Ngozi/RailsTutorial/.gemrc",
+		"/Users/Ngozi/.gemrc",
+		"/Users/Ngozi/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Ngozi/omrails/app/controllers/users_controller.rb",
+		"/Users/Ngozi/omrails/app/views/pins/_pin.html.erb",
+		"/Users/Ngozi/omrails/app/views/users/show.html.erb",
+		"/Users/Ngozi/omrails/config/routes.rb",
+		"/Users/Ngozi/omrails/app/controllers/pins_controller.rb",
+		"/Users/Ngozi/omrails/app/assets/javascripts/pins.js.coffee",
+		"/Users/Ngozi/omrails/app/views/pins/index.js.erb",
+		"/Users/Ngozi/omrails/Gemfile",
+		"/Users/Ngozi/omrails/lib/tasks/populate.rake",
+		"/Users/Ngozi/omrails/app/views/pins/index.html.erb",
+		"/Users/Ngozi/omrails/.gitignore",
+		"/Users/Ngozi/omrails/app/models/pin.rb",
+		"/Users/Ngozi/omrails/app/views/pins/_form.html.erb",
+		"/Users/Ngozi/omrails/config/environments/production.rb",
+		"/Users/Ngozi/omrails/app/views/pages/_home.html.erb",
+		"/Users/Ngozi/omrails/app/assets/stylesheets/styles.css.scss",
+		"/Users/Ngozi/omrails/app/views/layouts/_header.html.erb",
+		"/Users/Ngozi/omrails/app/assets/javascripts/application.js",
+		"/Users/Ngozi/omrails/app/views/pins/show.html.erb",
+		"/Users/Ngozi/omrails/app/models/user.rb",
+		"/Users/Ngozi/omrails/config.ru",
+		"/Users/Ngozi/omrails/app/views/devise/registrations/new.html.erb",
+		"/Users/Ngozi/omrails/app/views/devise/registrations/edit.html.erb",
+		"/Users/Ngozi/omrails/app/views/pages/home.html.erb",
+		"/Users/Ngozi/omrails/app/views/devise/sessions/new.html.erb",
+		"/Users/Ngozi/omrails/config/application.rb",
+		"/Users/Ngozi/omrails/app/views/layouts/application.html.erb",
+		"/Users/Ngozi/omrails/config/environments/development.rb",
+		"/Users/Ngozi/omrails/app/views/pages/about.html.erb",
+		"/Users/Ngozi/omrails/app/views/layouts/_footer.html.erb",
+		"/Users/Ngozi/omrails/app/controllers/pages_controller.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "user.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/rails_projects/first_app/Gemfile"
+			],
+			[
+				"add_user_id_to",
+				"db/migrate/20130928203615_add_user_id_to_pins.rb"
+			],
+			[
+				"ho",
+				"app/views/pages/home.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
